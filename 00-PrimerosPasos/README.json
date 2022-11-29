@@ -1,5 +1,5 @@
 {
-  "lessonTitle": "Primeros Pasitos",
+  "lessonTitle": "Primeros Pasos",
   "feedbackID": "00-PrimerosPasos",
   "permalink": "/Primeros_Pasos/",
   "eleventyNavigation": {
@@ -7,3 +7,4 @@
     "order": 2
   }
 }
+
